@@ -403,8 +403,6 @@ public class FingerPaintActivity extends Activity implements
 			return true;
 		case ERASE_MENU_ID:
 			
-			
-			
 			if(!Q) {
 				mPaint.setXfermode(new PorterDuffXfermode(PorterDuff.Mode.CLEAR));
 				mPaint.setAlpha(0x80);
