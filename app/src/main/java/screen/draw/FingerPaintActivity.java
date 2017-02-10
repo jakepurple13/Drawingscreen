@@ -370,7 +370,6 @@ public class FingerPaintActivity extends Activity implements
 	
 	boolean work = true;
 	
-	
 	@Override
 	public boolean onOptionsItemSelected(MenuItem item) {
 		mPaint.setXfermode(null);
