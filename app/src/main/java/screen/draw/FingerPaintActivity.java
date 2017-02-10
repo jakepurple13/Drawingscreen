@@ -314,7 +314,6 @@ public class FingerPaintActivity extends Activity implements
     AlertDialog asdf1;
 	boolean Q = false;
 	
-	
 	@Override
 	public boolean onCreateOptionsMenu(Menu menu) {
 		super.onCreateOptionsMenu(menu);
