@@ -1,0 +1,33 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/threecolor"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:title="Red/White/Blue">
+    	<menu >
+	    	    <item
+	        android:id="@+id/redcol"
+	        android:title="Red"/>
+	    	    
+	    	    <item
+	        android:id="@+id/whitecol"
+	       
+	        android:title="White"/>
+	    	    
+	       	 <item
+	        android:id="@+id/bluecol"
+	       
+	        android:title="Blue"/>
+	       	 
+	       	 <item
+	        android:id="@+id/erase"
+	       
+	        android:checkable="true"
+	        android:checked="false"
+	        android:title="Eraser"/>
+    	</menu>
+	</item>
+    	
+    	
+</menu>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/Jacob/AndroidStudioProjects/Drawingscreen/app/build/intermediates/res/merged/debug/anim/mainfadein.xml",
+        "source": "/Users/Jacob/AndroidStudioProjects/Drawingscreen/app/src/main/res/anim/mainfadein.xml"
+    },
+    {
+        "merged": "/Users/Jacob/AndroidStudioProjects/Drawingscreen/app/build/intermediates/res/merged/debug/anim/splashfadeout.xml",
+        "source": "/Users/Jacob/AndroidStudioProjects/Drawingscreen/app/src/main/res/anim/splashfadeout.xml"
+    }
+]

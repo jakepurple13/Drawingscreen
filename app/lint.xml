@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lint>
+    <issue id="InlinedApi">
+        <ignore path="src/screen/draw/About.java" />
+    </issue>
+    <issue id="NewApi" severity="ignore">
+        <ignore path="src/screen/draw/About.java" />
+        <ignore path="src/screen/draw/FingerPaintActivity.java" />
+        <ignore path="src/screen/draw/Splash.java" />
+    </issue>
+</lint>

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/Jacob/AndroidStudioProjects/Drawingscreen/app/build/intermediates/res/merged/debug/menu/splash.xml",
+        "source": "/Users/Jacob/AndroidStudioProjects/Drawingscreen/app/src/main/res/menu/splash.xml"
+    },
+    {
+        "merged": "/Users/Jacob/AndroidStudioProjects/Drawingscreen/app/build/intermediates/res/merged/debug/menu/test.xml",
+        "source": "/Users/Jacob/AndroidStudioProjects/Drawingscreen/app/src/main/res/menu/test.xml"
+    },
+    {
+        "merged": "/Users/Jacob/AndroidStudioProjects/Drawingscreen/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/Jacob/AndroidStudioProjects/Drawingscreen/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/Jacob/AndroidStudioProjects/Drawingscreen/app/build/intermediates/res/merged/debug/menu/about.xml",
+        "source": "/Users/Jacob/AndroidStudioProjects/Drawingscreen/app/src/main/res/menu/about.xml"
+    },
+    {
+        "merged": "/Users/Jacob/AndroidStudioProjects/Drawingscreen/app/build/intermediates/res/merged/debug/menu/finger_paint.xml",
+        "source": "/Users/Jacob/AndroidStudioProjects/Drawingscreen/app/src/main/res/menu/finger_paint.xml"
+    }
+]
